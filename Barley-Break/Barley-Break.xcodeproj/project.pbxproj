@@ -12,6 +12,7 @@
 		8B15EA4528AE634100B08457 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B15EA4428AE634100B08457 /* Assets.xcassets */; };
 		8B15EA4828AE634100B08457 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B15EA4628AE634100B08457 /* LaunchScreen.storyboard */; };
 		8B15EA5228AE63EC00B08457 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B15EA5128AE63EC00B08457 /* StartViewController.swift */; };
+		8B15EA5428AE7DBA00B08457 /* StartCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B15EA5328AE7DBA00B08457 /* StartCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8B15EA4728AE634100B08457 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8B15EA4928AE634100B08457 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8B15EA5128AE63EC00B08457 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
+		8B15EA5328AE7DBA00B08457 /* StartCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				8B15EA3B28AE634000B08457 /* AppDelegate.swift */,
 				8B15EA3D28AE634000B08457 /* SceneDelegate.swift */,
 				8B15EA5128AE63EC00B08457 /* StartViewController.swift */,
+				8B15EA5328AE7DBA00B08457 /* StartCollectionViewCell.swift */,
 				8B15EA4428AE634100B08457 /* Assets.xcassets */,
 				8B15EA4628AE634100B08457 /* LaunchScreen.storyboard */,
 				8B15EA4928AE634100B08457 /* Info.plist */,
@@ -135,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8B15EA3C28AE634000B08457 /* AppDelegate.swift in Sources */,
+				8B15EA5428AE7DBA00B08457 /* StartCollectionViewCell.swift in Sources */,
 				8B15EA3E28AE634000B08457 /* SceneDelegate.swift in Sources */,
 				8B15EA5228AE63EC00B08457 /* StartViewController.swift in Sources */,
 			);
